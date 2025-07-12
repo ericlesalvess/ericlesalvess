@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Ericles Alves
 🎓 Estudante de Ciência da Computação 
-• 💻 Desenvolvedor Back-End em formação 
+💻 Desenvolvedor Back-End 
  
 
 🚀 Um pouco sobre minha jornada
