@@ -13,19 +13,13 @@ Hoje, como estudante de Ciência da Computação, estou focado em desenvolviment
 🔧 Tecnologias que fazem parte do meu dia a dia
 Atualmente estudo e desenvolvo com:
 
-•PHP com Laravel
-•MySQL
-•JavaScript
-•Bootstrap
-•AdminLTE
-•Docker
-•Linux como ambiente de desenvolvimento
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 💬 Em busca de colaboração e aprendizado
 Sou movido por desafios e adoro trabalhar em equipe. Estou sempre aberto a feedbacks, contribuições e trocas de ideias. Se você tiver um projeto que precisa de alguém com vontade de aprender e fazer acontecer, vamos conversar!
 
 📫 Onde me encontrar
 
-💼 LinkedIn
-📂 Portfólio no GitHub
-📧 ericlesalves.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ericlesalvess)
+- 📂 [Portfólio](https://github.com/ericlesalvess?tab=repositories)
+- 📧 ericlesalves.dev@gmail.com
